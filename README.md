@@ -2,4 +2,4 @@
 https://ayushmangarg2003.github.io/profile/
 
 ## Note:
-This project is not complete and I don't plan to complete it so you can view mylatest projects
+This project is not complete and I don't plan to complete it so you can view my latest projects and stop seeing this
