@@ -2,4 +2,4 @@
 https://ayushmangarg2003.github.io/profile/
 
 ## Note:
-This project is not complete and I don't plan to complete it so you can view my latest projects and stop seeing this
+This project is not complete and I don't plan to complete it . I just made it so that I can learn how to give glass effect in CSS
